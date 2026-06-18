@@ -1,6 +1,4 @@
-# LGMVIP-Web-Task-02
-
-## User Card Grid App 
+# User Card Grid App 
 
 This GitHub repository contains the source code for a captivating User Card Grid web application. The app is designed using React.js and features a visually appealing layout to display user cards fetched from an external API. It provides a seamless user experience with a clean and intuitive design.
 
